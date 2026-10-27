@@ -38,4 +38,4 @@ The notebook reports accuracy, precision, recall, F1-score, ROC-AUC, classificat
 The sample data may not reflect current customer populations. Model performance should be validated on fresh data and monitored before any real deployment. Feature importance is not evidence of causation.
 
 ## Author
-Your Name
+Anjali Verma
